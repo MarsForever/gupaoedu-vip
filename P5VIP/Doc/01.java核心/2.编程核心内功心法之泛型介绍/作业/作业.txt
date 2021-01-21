@@ -1,0 +1,7 @@
+1,泛型的主要意义是什么?
+ 
+2,  <? extends SortedMap> 可以用HashMap吗?为什么?
+ 
+3, public static <T> T getInstance(Class<T> clazz) 简述这个方法的定义
+
+4, 完成课程中泛型接口的案例

@@ -1,0 +1,7 @@
+1,梳理LinkedList中get(int index)方法的流程细节,并对比ArrayList中的get(int index)的区别
+ 
+2,ArrayList和LinkedList 在实际的业务开发过程中,我们如何选择
+ 
+3,简述HashMap的底层数据结构形态且简要说明put方法的流程细节
+
+4,简述红黑书在5个规则

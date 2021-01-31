@@ -1752,7 +1752,9 @@ public void refresh() throws BeansException, IllegalStateException {
 >
 > 3.编译检查：通过代码里标识的注解让编译器能够实现基本的编译检查【Override】
 
+Java注解命令行，指定UTF-8
 
+> javadoc -d doc -encoding UTF-8 -charset UTF-8 User.java
 
 ## 2.JDK预定义的注解
 

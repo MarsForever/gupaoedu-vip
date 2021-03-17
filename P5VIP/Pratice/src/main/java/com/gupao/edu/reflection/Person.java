@@ -1,4 +1,4 @@
-package main.java.com.gupao.edu.generic;
+package main.java.com.gupao.edu.reflection;
 
 public class Person {
     private String idCard;
@@ -7,11 +7,4 @@ public class Person {
     public void fun1(){}
     public void fun2(){}
 
-    public String getIdCard() {
-        return idCard;
-    }
-
-    public void setIdCard(String idCard) {
-        this.idCard = idCard;
-    }
 }

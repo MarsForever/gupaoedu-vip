@@ -1,4 +1,4 @@
-package main.java.com.gupao.edu.array;
+package main.java.com.gupao.edu.generic;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

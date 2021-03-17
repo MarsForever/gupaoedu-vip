@@ -1,2 +1,5 @@
-package main.java.com.gupao.edu.reflection;public interface Ball {
+package main.java.com.gupao.edu.reflection;
+
+public interface Ball {
+    void playBall();
 }
